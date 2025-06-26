@@ -1,6 +1,5 @@
 
-# RoLA (Real-time Online Lightweight Anomaly Detection)
-Author: Samuel Moses Orokpo  
+# RoLA (Real-time Online Lightweight Anomaly Detection) 
 Date: March 20, 2025  
 
 ## Overview
