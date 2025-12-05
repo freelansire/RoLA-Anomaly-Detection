@@ -9,7 +9,6 @@ This repository contains an improved RoLA variant (“RoLA v2”) for **real-tim
 - Introduced an improved RoLA variant with **uncertainty-aware Bayesian online thresholding**, **adaptive correlation gates**, and **temporal recalibration (forgetting)** for non-stationary streams.
 - Demonstrated robust performance on **multivariate marine sensor data** *(temperature, turbidity, oxygen, salinity)*, emphasizing **latency–accuracy trade-offs** under resource constraints.
 - Delivered a **live streaming demo** with explainable anomaly scores and confidence intervals; designed for **edge-friendly deployment** and **reproducible benchmarking** for low-power inference experiments.
-- **Independent Study (Reviewed by NTNU Faculty – Highest Ranked).** Formed basis for ongoing manuscript on empirical hybrid extensions.
 
 ---
 
