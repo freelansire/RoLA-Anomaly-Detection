@@ -92,6 +92,6 @@ source .venv/bin/activate
   author  = {Samuel Moses Orokpo},
   title   = {RoLA v2: Lightweight Real-Time Online Anomaly Detection (Live Streaming Demo)},
   year    = {2025},
-  url     = {https://github.com/freelansire/<YOUR_REPO_NAME>}
+  url     = {https://github.com/freelansire/RoLA-Anomaly-Detection}
 }
 
