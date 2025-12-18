@@ -1,6 +1,6 @@
 # RoLA v2 — Lightweight Real-Time Online Anomaly Detection (Live Demo)
 
-This repository contains an improved RoLA variant (“RoLA v2”) for **real-time multivariate anomaly detection** in non-stationary sensor streams, with a **live streaming dashboard** (Streamlit) for reproducible experiments.
+This repository contains an improved [RoLA variant](https://github.com/freelansire/RoLA-Anomaly-Detection/tree/v1-maintenance) (“RoLA v2”) for **real-time multivariate anomaly detection** in non-stationary sensor streams, with a **live streaming dashboard** (Streamlit) for reproducible experiments.
 
 ---
 
